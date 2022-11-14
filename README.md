@@ -1,0 +1,1 @@
+self shell project
