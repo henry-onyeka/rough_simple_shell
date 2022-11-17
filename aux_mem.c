@@ -1,7 +1,5 @@
 #include"henry.h"
 
-#include "holberton.h"
-
 /**
  * _memcpy - copies information between void pointers.
  * @newptr: destination pointer.
